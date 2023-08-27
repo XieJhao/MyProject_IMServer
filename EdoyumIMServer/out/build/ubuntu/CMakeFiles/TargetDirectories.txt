@@ -1,0 +1,4 @@
+/home/xjh/Projrct/EdoyumIMServer/out/build/ubuntu/CMakeFiles/EdoyumIMServer.dir
+/home/xjh/Projrct/EdoyumIMServer/out/build/ubuntu/CMakeFiles/fileIMServer.dir
+/home/xjh/Projrct/EdoyumIMServer/out/build/ubuntu/CMakeFiles/edit_cache.dir
+/home/xjh/Projrct/EdoyumIMServer/out/build/ubuntu/CMakeFiles/rebuild_cache.dir
